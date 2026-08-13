@@ -15,4 +15,5 @@ Current (and probably only) project is Relic, a game engine based on LWJGL, with
 Best way to contact me is on discord: icewastaken_
 
 ## Stats
-[![Iskyla's GitHub stats](https://github-stats-extended.vercel.app/api?username=IceWasTaken)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IceWasTaken&hide_rank=true&custom_title=Iskyla%27s%20GitHub%20Stats&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=IceWasTaken&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IceWasTaken&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IceWasTaken&langs_count=5&theme=dark)
